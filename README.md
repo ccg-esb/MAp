@@ -5,7 +5,7 @@ This project simulates and analyzes the mutation dynamics in plasmids within bac
 
 ## Jupyter Notebooks
 
-### 1. py_MAp_1_model.ipynb](https://github.com/ccg-esb/MAp/blob/main/py_MAp_1_model.ipynb)
+### 1. [py_MAp_1_model.ipynb](https://github.com/ccg-esb/MAp/blob/main/py_MAp_1_model.ipynb)
 This notebook contains the core model implementation and examples. It uses Object-Oriented Programming (OOP) to represent plasmids, bacterial cells, and populations.
 
 #### Contents:
