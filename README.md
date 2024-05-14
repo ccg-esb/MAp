@@ -1,7 +1,7 @@
 # MAp: Mutation Accumulation in Plasmids
 
 ## Overview
-This project simulates and analyzes the mutation dynamics in plasmids within bacterial populations. The computational model is designed to simulate plasmid behavior across multiple generations, incorporating factors such as plasmid replication, mutation, and segregation. The project consists of three Jupyter Notebooks, each focusing on different aspects of the simulation and analysis.
+This repository contains a computational framework for simulating mutation accumulation experiments in bacterial populations harboring multicopy plasmids. The model simulates the behavior of plasmids across multiple bacterial generations, incorporating critical biological processes such as plasmid replication, segregation, and random mutation events. The primary objective is to quantify the balance between mutation probability, which increases with higher plasmid copy number (PCN), and segregational drift, which clears mutations more effectively at high PCN.
 
 ## Jupyter Notebooks
 
