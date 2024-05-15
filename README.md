@@ -23,7 +23,7 @@ This notebook runs the simulations, storing results in PKL files for later analy
 - **Running Simulations:** Execution of multiple simulation runs and storage of results.
 - **Data Storage:** Saving simulation results in PKL files for future analysis.
 
-### 3. [py_MAp_3_analysis.ipynb](https://github.com/ccg-esb/MAp/blob/main/py-MAp_3-analysis.ipynb)
+### 3. [py_MAp_3_analysis.ipynb](https://github.com/ccg-esb/MAp/blob/main/py_MAp_3_analysis.ipynb)
 This notebook loads the simulation results and performs detailed analysis and visualization. It helps interpret the data and provides insights into plasmid dynamics.
 
 #### Contents:
