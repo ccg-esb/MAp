@@ -15,7 +15,7 @@ This notebook contains the core model implementation and examples. It uses Objec
 - **Population Class:** Simulates a collection of bacterial cells over multiple generations.
 - **Examples:** Demonstrations of how to use the model classes.
 
-### 2. [py_MAp_2_experiment.ipynb](https://github.com/ccg-esb/MAp/blob/main/py_MAp_2-experiment.ipynb)
+### 2. [py_MAp_2_experiment.ipynb](https://github.com/ccg-esb/MAp/blob/main/py_MAp_2_experiment.ipynb)
 This notebook runs the simulations, storing results in PKL files for later analysis. It allows for multiple simulation runs with varying parameters to study plasmid dynamics under different conditions.
 
 #### Contents:
